@@ -31,7 +31,7 @@ Esse repositório contém a estrutura inicial de páginas em **HTML, CSS e JavaS
 ## 📍 Visualizar o projeto
 
 Você pode acessar a versão publicada aqui:  
-👉 🌐 https://emersonpsn07-afk.github.io/eletubos/
+👉 🌐 https://emerson-o-campos.github.io/eletubos/
 
 ---
 
