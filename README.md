@@ -1,7 +1,6 @@
 # 🛠️ Eletubos – Projeto de Front-end
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge)
-![Tecnologias](https://img.shields.io/badge/HTML-CSS-JavaScript-blue?style=for-the-badge)
 
 ## 📌 Sobre o projeto
 
@@ -36,8 +35,3 @@ Você pode acessar a versão publicada aqui:
 
 ---
 
-## 🧠 Como usar localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Emerson-O-Campos/eletubos.git
